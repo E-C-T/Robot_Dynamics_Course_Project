@@ -7,7 +7,7 @@
 ## State History
 ![square_dynamic_trajectory_state_hist](https://github.com/E-C-T/Robot_Dynamics_Course_Project/blob/main/square_dynamic_trajectory_state_hist.png?raw=true)
 
-## Movement in XY plane
+## Movement in XY plane (Beginning from (0,0))
 ![square_movement_xy_plot](https://github.com/E-C-T/Robot_Dynamics_Course_Project/blob/main/square_movement_xy_plot.png?raw=true)
 
 
